@@ -4,12 +4,12 @@
 conda activate scrap
 
 # Define paths
-FEED_FILE="/home/aholab/asierhv/scrapping/podcast/feed_rss.json"
-OUTPUT_DIR="/home/aholab/asierhv/scrapping/podcast/audios"
+FEED_FILE="feed_rss.json"
+OUTPUT_DIR="audios"
 ONLY_STATS=false
 
 # Generate a log file with current date and time
-LOG_FILE="/home/aholab/asierhv/scrapping/podcast/logs/download_$(date +'%Y%m%d_%H%M%S').log"
+LOG_FILE="logs/download_$(date +'%Y%m%d_%H%M%S').log"
 
 # Run the Python script and log output
 python download_ivoox_podcast.py \

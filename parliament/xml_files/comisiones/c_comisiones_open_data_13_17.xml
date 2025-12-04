@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sesiones_comision_open_data xsi:noNamespaceSchemaLocation="sesiones_comision_open_data.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--PPIO CODIGO GENERADO-->
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>1</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>28.06.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>12:17</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>28.06.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>12:27</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 3
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+00:01
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comentarios_hora><![CDATA[
+12:00
+      ]]></sesiones_comision_comentarios_hora>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>17</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión del Estatuto Parlamentario
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/1993e297-091e-43e6-8a31-aa951c639604
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Atutxa Sainz, Jon Andoni (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Tejeria Otermin, Bakartxo (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arcas Nogales, Lamia (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arrese Otegi, Ikoitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Blanco de Angulo, Eba (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarrieta Legrand, Oihana (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Saez de Egilaz Ramos, Eraitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Alonso Martín, Alberto (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Corcuera Leunda, Susana (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rico Lezama, Ekain (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Gotxi García, Álvaro (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Constitución de la comisión
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/1993e297-091e-43e6-8a31-aa951c639604
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se constituye la comisión
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=17&streamdata=20240628&streamdbstart=2024-06-28T12:26:38.9&streamdbend=2024-06-28T12:27:11.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+<!--FIN CODIGO GENERADO-->
+</sesiones_comision_open_data>

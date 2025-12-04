@@ -1,0 +1,1961 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sesiones_comision_open_data xsi:noNamespaceSchemaLocation="sesiones_comision_open_data.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--PPIO CODIGO GENERADO-->
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>1</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>28.06.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>12:19</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>28.06.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>12:29</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 3
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+00:01
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comentarios_hora><![CDATA[
+12:00
+      ]]></sesiones_comision_comentarios_hora>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>19</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/87801ed3-59ff-48f6-881c-b89f9853a3ef
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Abaroa Cantuariense, Aritz (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arana Oyarbide, Alazne (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bedialauneta Bilbao, Naiara (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lete García, Elena (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Tejeria Otermin, Bakartxo (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arcas Nogales, Lamia (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arrese Otegi, Ikoitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Blanco de Angulo, Eba (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarrieta Legrand, Oihana (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Saez de Egilaz Ramos, Eraitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Alonso Martín, Alberto (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Corcuera Leunda, Susana (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rico Lezama, Ekain (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Gotxi García, Álvaro (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Constitución de la comisión y elección de la mesa
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/87801ed3-59ff-48f6-881c-b89f9853a3ef
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se constituye la comisión y se elige la mesa
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240628&streamdbstart=2024-06-28T12:28:52.8&streamdbend=2024-06-28T12:29:41.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>2</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>24.09.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>12:00</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>24.09.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>14:33</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 1
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+02:32
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>19</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/df519b4b-290c-44af-8ba6-dafdce09c142
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Abaroa Cantuariense, Aritz (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arana Oyarbide, Alazne (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bedialauneta Bilbao, Naiara (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lete García, Elena (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Astigarraga Luque, Xabier (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarria Astondoa, Itxaso (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernandez Madariaga, Naiara (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+San Saturnino Murua, Ibon (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernández Rivas, Adrián (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Domaica Goñi, Ainhoa (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para informar de los compromisos, los objetivos y las principales líneas de actuación previstos por el Departamento de Turismo, Comercio y Consumo para la XIII legislatura
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/df519b4b-290c-44af-8ba6-dafdce09c142
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\02\00011</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece el consejero de Turismo, Comercio y Consumo acompañado de personal de su departamento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Turismo, Comercio y Consumo, consejero (Hurtado Domínguez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Hurtado Domínguez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T12:05:37.0&streamdbend=2024-09-24T12:52:26.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T12:52:26.4&streamdbend=2024-09-24T13:00:15.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Domaica Goñi, Ainhoa (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T13:00:15.9&streamdbend=2024-09-24T13:10:23.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T13:10:23.2&streamdbend=2024-09-24T13:19:50.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Fernández Rivas, Adrián (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T13:19:50.5&streamdbend=2024-09-24T13:22:40.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T13:22:40.9&streamdbend=2024-09-24T13:32:31.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Turismo, Comercio y Consumo, consejero (Hurtado Domínguez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Hurtado Domínguez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T13:42:22.2&streamdbend=2024-09-24T14:03:47.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T13:32:31.4&streamdbend=2024-09-24T13:42:22.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T14:03:47.6&streamdbend=2024-09-24T14:05:58.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Domaica Goñi, Ainhoa (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T14:05:58.6&streamdbend=2024-09-24T14:09:57.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T14:09:57.2&streamdbend=2024-09-24T14:10:56.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T14:10:56.5&streamdbend=2024-09-24T14:16:02.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>150</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T14:16:02.1&streamdbend=2024-09-24T14:19:39.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>160</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Turismo, Comercio y Consumo, consejero (Hurtado Domínguez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Hurtado Domínguez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T14:19:39.0&streamdbend=2024-09-24T14:31:00.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del  acta de la sesión celebrada el día 28 de junio de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/df519b4b-290c-44af-8ba6-dafdce09c142
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T12:01:55.5&streamdbend=2024-09-24T12:02:29.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>5</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/df519b4b-290c-44af-8ba6-dafdce09c142
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+La presidenta expresa su criterio favorable relativa a la presencia de los y las acompañantes de las y los comparecientes en la sala de comisiones
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T14:32:21.3&streamdbend=2024-09-24T14:33:09.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>4</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Delegación en la Mesa de la comisión de la adopción de acuerdos sobre solicitudes de información o comparecencia, con arreglo al artículo 52.5 del Reglamento
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/df519b4b-290c-44af-8ba6-dafdce09c142
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba la delegación
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T14:31:50.4&streamdbend=2024-09-24T14:32:21.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de vicepresidenta o vicepresidente de la comisión
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/df519b4b-290c-44af-8ba6-dafdce09c142
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa a Maider Lainez Lazcoz vicepresidenta de la comisión
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T12:02:29.3&streamdbend=2024-09-24T12:02:40.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T12:02:40.0&streamdbend=2024-09-24T12:02:46.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20240924&streamdbstart=2024-09-24T12:02:46.5&streamdbend=2024-09-24T12:03:29.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>3</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>20.11.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>11:30</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>20.11.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>12:52</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 2
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+01:18
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>19</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/c1bb36aa-5c33-489d-9ee4-5daf0fb51f5f
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lete García, Elena (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Abaroa Cantuariense, Aritz (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arana Oyarbide, Alazne (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bedialauneta Bilbao, Naiara (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Astigarraga Luque, Xabier (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarria Astondoa, Itxaso (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernandez Madariaga, Naiara (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+San Saturnino Murua, Ibon (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernández Rivas, Adrián (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Canto Llorente, Estíbaliz (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+A fin de informar sobre el proyecto de decreto de modificación del Decreto 101/2018
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/c1bb36aa-5c33-489d-9ee4-5daf0fb51f5f
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00031</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece el consejero de Turismo, Comercio y Consumo acompañado de personal de su departamento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Turismo, Comercio y Consumo, consejero (Hurtado Domínguez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Hurtado Domínguez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T11:42:35.9&streamdbend=2024-11-20T12:02:28.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T11:35:09.7&streamdbend=2024-11-20T11:42:35.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:02:28.9&streamdbend=2024-11-20T12:09:44.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:09:44.7&streamdbend=2024-11-20T12:11:29.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:11:29.0&streamdbend=2024-11-20T12:21:19.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:21:19.4&streamdbend=2024-11-20T12:27:44.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Turismo, Comercio y Consumo, consejero (Hurtado Domínguez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Hurtado Domínguez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:27:44.4&streamdbend=2024-11-20T12:38:30.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:38:30.7&streamdbend=2024-11-20T12:41:58.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:41:58.9&streamdbend=2024-11-20T12:45:45.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:45:45.0&streamdbend=2024-11-20T12:46:49.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Turismo, Comercio y Consumo, consejero (Hurtado Domínguez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Hurtado Domínguez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:46:49.1&streamdbend=2024-11-20T12:52:01.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del  acta de la sesión celebrada el día 24 de septiembre de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/c1bb36aa-5c33-489d-9ee4-5daf0fb51f5f
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T11:34:49.2&streamdbend=2024-11-20T11:35:09.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/c1bb36aa-5c33-489d-9ee4-5daf0fb51f5f
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+No se producen intervenciones
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, secretaria (Lete García)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Lete García
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241120&streamdbstart=2024-11-20T12:52:01.8&streamdbend=2024-11-20T12:52:09.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>4</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>05.12.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>09:15</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>05.12.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>09:19</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 2
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+00:02
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>19</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/8f88bbeb-b791-421b-91a0-df9e83756460
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lete García, Elena (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Abaroa Cantuariense, Aritz (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arana Oyarbide, Alazne (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bedialauneta Bilbao, Naiara (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Astigarraga Luque, Xabier (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarria Astondoa, Itxaso (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+San Saturnino Murua, Ibon (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernández Rivas, Adrián (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Domaica Goñi, Ainhoa (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de miembros del Consejo de Dirección de Kontsumobide-Instituto Vasco de Consumo
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/8f88bbeb-b791-421b-91a0-df9e83756460
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_iniciativas_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+            </sesiones_comision_asunto_iniciativas_origen>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\11\07\24\00001</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión. Designación
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa como vocales en el Consejo de Dirección de Kontsumobide-Instituto Vasco de Consumo a Carlos Ballugera Gómez y a Itxaso Etxebarria Astondoa
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votaciones.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241205&streamdbstart=2024-12-05T09:18:05.0&streamdbend=2024-12-05T09:19:30.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de miembros del Consejo de Dirección de Kontsumobide-Instituto Vasco de Consumo
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/8f88bbeb-b791-421b-91a0-df9e83756460
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_iniciativas_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+            </sesiones_comision_asunto_iniciativas_origen>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\11\07\24\00001</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión. Designación
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa como vocales en el Consejo de Dirección de Kontsumobide-Instituto Vasco de Consumo a Carlos Ballugera Gómez y a Itxaso Etxebarria Astondoa
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votaciones.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241205&streamdbstart=2024-12-05T09:18:05.0&streamdbend=2024-12-05T09:19:30.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de miembros del Consejo de Dirección de Kontsumobide-Instituto Vasco de Consumo
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/8f88bbeb-b791-421b-91a0-df9e83756460
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_iniciativas_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+            </sesiones_comision_asunto_iniciativas_origen>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\11\07\24\00001</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión. Designación
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa como vocales en el Consejo de Dirección de Kontsumobide-Instituto Vasco de Consumo a Carlos Ballugera Gómez y a Itxaso Etxebarria Astondoa
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votaciones.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241205&streamdbstart=2024-12-05T09:18:05.0&streamdbend=2024-12-05T09:19:30.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de miembros del Consejo de Dirección de Kontsumobide-Instituto Vasco de Consumo
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/8f88bbeb-b791-421b-91a0-df9e83756460
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_iniciativas_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+               <sesiones_comision_asunto_iniciativa_origen>
+                  <sesiones_comision_asunto_iniciativa_origen_numero>13\11\07\24\00001</sesiones_comision_asunto_iniciativa_origen_numero>
+                  <sesiones_comision_asunto_iniciativa_origen_link><![CDATA[
+http://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE::::SESSION:RESETBRCRMB,P18_ID:Y,\84774\&p_lang=es
+                  ]]></sesiones_comision_asunto_iniciativa_origen_link>
+               </sesiones_comision_asunto_iniciativa_origen>
+            </sesiones_comision_asunto_iniciativas_origen>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\11\07\24\00001</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión. Designación
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa como vocales en el Consejo de Dirección de Kontsumobide-Instituto Vasco de Consumo a Carlos Ballugera Gómez y a Itxaso Etxebarria Astondoa
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votaciones.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241205&streamdbstart=2024-12-05T09:18:05.0&streamdbend=2024-12-05T09:19:30.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión celebrada el día 20 de noviembre de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/8f88bbeb-b791-421b-91a0-df9e83756460
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241205&streamdbstart=2024-12-05T09:17:46.5&streamdbend=2024-12-05T09:18:05.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/8f88bbeb-b791-421b-91a0-df9e83756460
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+No se producen intervenciones
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20241205&streamdbstart=2024-12-05T09:19:30.1&streamdbend=2024-12-05T09:19:38.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>5</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>30.05.2025</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>09:30</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>30.05.2025</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>10:08</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 1
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+00:37
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>19</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2dc6e8cd-3d31-46aa-b9de-91a064151cc9
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lete García, Elena (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arana Oyarbide, Alazne (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bedialauneta Bilbao, Naiara (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Sáez de Castillo García, Pedro (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarria Astondoa, Itxaso (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernandez Madariaga, Naiara (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Ortiz de Guinea Vea Murguia, Gorka (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+San Saturnino Murua, Ibon (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernández Rivas, Adrián (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Domaica Goñi, Ainhoa (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Sobre la mejora de la ayuda a la modernización de establecimientos comerciales y de determinados servicios relacionados con la actividad comercial (MEC)
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2dc6e8cd-3d31-46aa-b9de-91a064151cc9
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\11\02\01\00167</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesión de comisión o Diputación Permanente. Se aprueba la iniciativa
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Aprobada la enmienda transaccional suscrita por los grupos EA-NV, EH Bildu y SV
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno del grupo proponente.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos enmendantes.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Fernandez Madariaga, Naiara (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T09:32:17.9&streamdbend=2025-05-30T09:41:06.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Domaica Goñi, Ainhoa (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T09:41:06.9&streamdbend=2025-05-30T09:47:21.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T09:47:21.3&streamdbend=2025-05-30T09:55:38.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T09:55:38.8&streamdbend=2025-05-30T10:01:31.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de réplica.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Fernandez Madariaga, Naiara (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T10:01:31.3&streamdbend=2025-05-30T10:03:54.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T10:03:54.0&streamdbend=2025-05-30T10:05:42.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T10:05:42.2&streamdbend=2025-05-30T10:06:02.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2dc6e8cd-3d31-46aa-b9de-91a064151cc9
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T10:06:02.1&streamdbend=2025-05-30T10:08:13.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión celebrada el día 5 de diciembre de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2dc6e8cd-3d31-46aa-b9de-91a064151cc9
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250530&streamdbstart=2025-05-30T09:31:56.6&streamdbend=2025-05-30T09:32:17.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>6</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>27.06.2025</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>11:30</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>27.06.2025</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>12:40</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 1
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+01:08
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>19</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/beb84e18-2c94-44aa-9933-54a38681451b
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lete García, Elena (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Abaroa Cantuariense, Aritz (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arana Oyarbide, Alazne (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bedialauneta Bilbao, Naiara (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarria Astondoa, Itxaso (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernandez Madariaga, Naiara (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+San Saturnino Murua, Ibon (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Fernández Rivas, Adrián (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para exponer su opinión ante la próxima tramitación del proyecto de ley de acciones colectivas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/beb84e18-2c94-44aa-9933-54a38681451b
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00156</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparecen representantes de la Unión de Consumidores de Euskadi (UCE) y de la 
+Asociación de Personas Consumidoras y Usuarias Vasca (ACUV)
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:38:06.4&streamdbend=2025-06-27T11:40:03.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:40:03.7&streamdbend=2025-06-27T11:54:02.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:54:02.0&streamdbend=2025-06-27T11:55:29.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:55:29.8&streamdbend=2025-06-27T11:55:41.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:55:41.3&streamdbend=2025-06-27T11:56:12.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:56:12.4&streamdbend=2025-06-27T11:58:31.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:58:31.0&streamdbend=2025-06-27T12:01:03.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Fernández Rivas, Adrián (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:01:03.3&streamdbend=2025-06-27T12:07:01.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Etxebarria Astondoa, Itxaso (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:07:01.9&streamdbend=2025-06-27T12:16:21.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Bedialauneta Bilbao, Naiara (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:16:21.7&streamdbend=2025-06-27T12:20:01.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>150</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:22:41.6&streamdbend=2025-06-27T12:26:00.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:20:01.7&streamdbend=2025-06-27T12:22:41.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>170</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:27:48.9&streamdbend=2025-06-27T12:29:04.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>160</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:26:00.0&streamdbend=2025-06-27T12:27:48.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>210</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:29:04.4&streamdbend=2025-06-27T12:30:37.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>230</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:30:37.4&streamdbend=2025-06-27T12:30:54.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>240</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Fernández Rivas, Adrián (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:30:54.4&streamdbend=2025-06-27T12:31:04.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>250</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Etxebarria Astondoa, Itxaso (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:31:04.5&streamdbend=2025-06-27T12:32:59.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>220</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>260</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Bedialauneta Bilbao, Naiara (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:32:59.0&streamdbend=2025-06-27T12:33:11.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>270</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:33:11.7&streamdbend=2025-06-27T12:34:31.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>280</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:34:31.1&streamdbend=2025-06-27T12:35:25.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>290</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:35:25.3&streamdbend=2025-06-27T12:35:34.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>300</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:35:34.9&streamdbend=2025-06-27T12:37:04.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>310</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:37:04.8&streamdbend=2025-06-27T12:37:37.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>320</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:37:37.4&streamdbend=2025-06-27T12:37:50.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>330</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:37:50.2&streamdbend=2025-06-27T12:38:02.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>340</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:38:02.2&streamdbend=2025-06-27T12:38:15.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>350</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:38:15.2&streamdbend=2025-06-27T12:38:38.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>360</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Urkiri)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Urkiri
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:38:38.0&streamdbend=2025-06-27T12:39:53.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Unión de Consumidores de Euskadi (UCE) (Alzaga Menaza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Alzaga Menaza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:34:13.0&streamdbend=2025-06-27T11:35:00.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/beb84e18-2c94-44aa-9933-54a38681451b
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+No se producen intervenciones
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T12:40:27.7&streamdbend=2025-06-27T12:40:40.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión celebrada el día 30 de mayo de 2025
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/beb84e18-2c94-44aa-9933-54a38681451b
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Turismo, Comercio y Consumo, presidenta (Murua Uria)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Murua Uria
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=19&streamdata=20250627&streamdbstart=2025-06-27T11:32:23.0&streamdbend=2025-06-27T11:32:39.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+<!--FIN CODIGO GENERADO-->
+</sesiones_comision_open_data>

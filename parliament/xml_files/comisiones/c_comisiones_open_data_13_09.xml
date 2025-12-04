@@ -1,0 +1,2292 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sesiones_comision_open_data xsi:noNamespaceSchemaLocation="sesiones_comision_open_data.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--PPIO CODIGO GENERADO-->
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>1</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>28.06.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>12:09</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>28.06.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>12:17</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 3
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+00:01
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comentarios_hora><![CDATA[
+12:00
+      ]]></sesiones_comision_comentarios_hora>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>9</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/6ec0a5fe-067c-4b68-941f-d5d93ebc8485
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Rico Lezama, Ekain (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Añibarro Maestre, Ander (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Aranburu Bartau, Markel (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Díez Antxustegi, Joseba (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rabalo Navarro, Irina (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Tejeria Otermin, Bakartxo (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arcas Nogales, Lamia (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arrese Otegi, Ikoitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Blanco de Angulo, Eba (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarrieta Legrand, Oihana (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Saez de Egilaz Ramos, Eraitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Alonso Martín, Alberto (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Corcuera Leunda, Susana (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Gotxi García, Álvaro (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Constitución de la comisión y elección de la Mesa
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/6ec0a5fe-067c-4b68-941f-d5d93ebc8485
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se constituye la comisión y se elige la mesa
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240628&streamdbstart=2024-06-28T12:16:48.1&streamdbend=2024-06-28T12:17:56.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>2</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>20.09.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>12:00</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>20.09.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>14:52</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 2
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+02:52
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>9</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2e04804b-1c7e-4ffb-b887-f34ed90d72ca
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Añibarro Maestre, Ander (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Aranburu Bartau, Markel (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rabalo Navarro, Irina (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Kortajarena Ibañez, Nerea (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Ubera Aranzeta, Rebeka (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrea Herrera, Diana (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Moreno Carranza, Jonatan (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Larrea Laso, Muriel (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>4</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para informar de los compromisos, los objetivos y las principales líneas de actuación previstos por el Departamento de Bienestar, Juventud y Reto Demográfico para la XIII legislatura
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2e04804b-1c7e-4ffb-b887-f34ed90d72ca
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\02\00005</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece la consejera de Bienestar, Juventud y Reto Demográfico acompañada de personal de su departamento.
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Bienestar, Juventud y Reto Demográfico, consejera (Melgosa Vega)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Melgosa Vega
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T12:05:18.9&streamdbend=2024-09-20T13:00:35.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T13:00:35.6&streamdbend=2024-09-20T13:11:51.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T13:11:51.8&streamdbend=2024-09-20T13:22:51.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T13:22:51.8&streamdbend=2024-09-20T13:28:49.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T13:31:28.3&streamdbend=2024-09-20T13:34:48.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T13:28:49.0&streamdbend=2024-09-20T13:31:28.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T13:34:48.2&streamdbend=2024-09-20T13:45:08.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T13:45:08.0&streamdbend=2024-09-20T13:57:23.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Bienestar, Juventud y Reto Demográfico, consejera (Melgosa Vega)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Melgosa Vega
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T13:57:23.0&streamdbend=2024-09-20T14:20:06.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T14:20:06.9&streamdbend=2024-09-20T14:23:27.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T14:23:27.5&streamdbend=2024-09-20T14:29:04.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T14:29:04.7&streamdbend=2024-09-20T14:31:04.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>170</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T14:31:04.1&streamdbend=2024-09-20T14:36:35.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>180</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T14:36:35.0&streamdbend=2024-09-20T14:37:28.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>190</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Bienestar, Juventud y Reto Demográfico, consejera (Melgosa Vega)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Melgosa Vega
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T14:37:28.0&streamdbend=2024-09-20T14:50:28.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, de la sesión constitutiva celebrada el día 28 de junio de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2e04804b-1c7e-4ffb-b887-f34ed90d72ca
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, vicepresidenta (Benito del Valle Fernandez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Benito del Valle Fernandez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T12:00:09.2&streamdbend=2024-09-20T12:00:47.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>6</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2e04804b-1c7e-4ffb-b887-f34ed90d72ca
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+No hay intervenciones.
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Bilbao Ibarra)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Bilbao Ibarra
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T14:51:53.3&streamdbend=2024-09-20T14:52:18.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>5</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Delegación en la Mesa de la comisión de la adopción de acuerdos sobre solicitudes de información o comparecencia, con arreglo al artículo 52.5 del Reglamento
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2e04804b-1c7e-4ffb-b887-f34ed90d72ca
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba.
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T14:51:24.9&streamdbend=2024-09-20T14:51:53.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de secretaria o secretario de la comisión
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2e04804b-1c7e-4ffb-b887-f34ed90d72ca
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa a Patricia Campelo Martínez secretaria de la comisión.
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Bilbao Ibarra)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Bilbao Ibarra
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T12:02:51.9&streamdbend=2024-09-20T12:03:15.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T12:03:15.5&streamdbend=2024-09-20T12:03:36.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T12:04:27.0&streamdbend=2024-09-20T12:04:59.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de presidenta o presidente de la comisión
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/2e04804b-1c7e-4ffb-b887-f34ed90d72ca
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa a Lorea Bilbao Ibarra presidenta de la comisión.
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, vicepresidenta (Benito del Valle Fernandez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Benito del Valle Fernandez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T12:00:47.3&streamdbend=2024-09-20T12:01:03.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T12:01:03.6&streamdbend=2024-09-20T12:01:10.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20240920&streamdbstart=2024-09-20T12:01:10.1&streamdbend=2024-09-20T12:02:17.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>3</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>19.11.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>13:30</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>19.11.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>14:36</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 2
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+01:04
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>9</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/19a067be-231f-4256-96b5-c695fbc1fd94
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Bilbao Ibarra, Lorea (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Añibarro Maestre, Ander (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Aranburu Bartau, Markel (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rabalo Navarro, Irina (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Kortajarena Ibañez, Nerea (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Ubera Aranzeta, Rebeka (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para presentar la planificación para 2024 así como la memoria del año 2023, e informar sobre la situación de la juventud.
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/19a067be-231f-4256-96b5-c695fbc1fd94
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00036</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparecen representantes del Consejo de la Juventud de Euskadi
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+EGK, Consejo de la Juventud de Euskadi (Uriarte Eiguren)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Uriarte Eiguren
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T14:11:07.4&streamdbend=2024-11-19T14:22:16.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+EGK, Consejo de la Juventud de Euskadi (Uriarte Eiguren)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Uriarte Eiguren
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T13:33:53.8&streamdbend=2024-11-19T13:53:02.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T13:53:02.9&streamdbend=2024-11-19T13:57:35.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T13:59:21.9&streamdbend=2024-11-19T14:07:07.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T13:57:35.8&streamdbend=2024-11-19T13:59:21.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Añibarro Maestre, Ander (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T14:07:07.6&streamdbend=2024-11-19T14:11:07.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T14:22:16.1&streamdbend=2024-11-19T14:24:58.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T14:24:58.5&streamdbend=2024-11-19T14:25:11.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T14:25:11.6&streamdbend=2024-11-19T14:28:06.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Añibarro Maestre, Ander (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T14:28:06.1&streamdbend=2024-11-19T14:29:16.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+EGK, Consejo de la Juventud de Euskadi (Uriarte Eiguren)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Uriarte Eiguren
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T14:29:16.1&streamdbend=2024-11-19T14:35:21.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/19a067be-231f-4256-96b5-c695fbc1fd94
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+No ha habido intervenciones.
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Bilbao Ibarra)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Bilbao Ibarra
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T14:36:15.2&streamdbend=2024-11-19T14:36:56.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión celebrada el día 20 de septiembre de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/19a067be-231f-4256-96b5-c695fbc1fd94
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Bilbao Ibarra)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Bilbao Ibarra
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241119&streamdbstart=2024-11-19T13:32:00.2&streamdbend=2024-11-19T13:32:51.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>4</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>16.12.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>15:30</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>16.12.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>16:55</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 1
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+01:22
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>9</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/f2b9889b-d19a-455e-b182-36a3b566239f
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Añibarro Maestre, Ander (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Aranburu Bartau, Markel (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Díez Antxustegi, Joseba (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Ipiñazar Miranda, Maitane (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rabalo Navarro, Irina (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Martinez Axpe, Lore (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrea Herrera, Diana (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Villalba Eguiluz, Amancay Amets (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para presentar la Estrategia de Garantía Infantil de Euskadi 2030.
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/f2b9889b-d19a-455e-b182-36a3b566239f
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\02\00020</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece la consejera de Bienestar, Juventud y Reto Demográfico acompañada de personal de su departamento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Bienestar, Juventud y Reto Demográfico, consejera (Melgosa Vega)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Melgosa Vega
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T15:37:35.1&streamdbend=2024-12-16T16:07:56.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:07:56.2&streamdbend=2024-12-16T16:12:22.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:12:22.0&streamdbend=2024-12-16T16:15:07.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Bienestar, Juventud y Reto Demográfico, consejera (Melgosa Vega)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Melgosa Vega
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:32:57.6&streamdbend=2024-12-16T16:48:33.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Villalba Eguiluz, Amancay Amets (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:15:07.4&streamdbend=2024-12-16T16:24:21.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Rabalo Navarro, Irina (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:24:21.3&streamdbend=2024-12-16T16:32:57.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Villalba Eguiluz, Amancay Amets (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:48:33.2&streamdbend=2024-12-16T16:52:08.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Departamento de Bienestar, Juventud y Reto Demográfico, consejera (Melgosa Vega)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Melgosa Vega
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:52:20.0&streamdbend=2024-12-16T16:55:47.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Rabalo Navarro, Irina (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:52:08.3&streamdbend=2024-12-16T16:52:20.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión celebrada el día 19 de noviembre de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/f2b9889b-d19a-455e-b182-36a3b566239f
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, vicepresidenta (Benito del Valle Fernández)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Benito del Valle Fernández
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T15:33:53.1&streamdbend=2024-12-16T15:34:14.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>4</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/f2b9889b-d19a-455e-b182-36a3b566239f
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+No se producen intervenciones
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Ipiñazar Miranda)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Ipiñazar Miranda
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T16:55:47.8&streamdbend=2024-12-16T16:55:58.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de presidenta o presidente de la comisión
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/f2b9889b-d19a-455e-b182-36a3b566239f
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa a Maitane Ipiñazar Miranda presidenta de la comisión
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, vicepresidenta (Benito del Valle Fernández)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Benito del Valle Fernández
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T15:34:14.5&streamdbend=2024-12-16T15:34:36.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20241216&streamdbstart=2024-12-16T15:34:36.7&streamdbend=2024-12-16T15:35:18.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>5</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>14.03.2025</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>09:30</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>14.03.2025</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>10:28</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 1
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+00:57
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>9</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7f0935ed-64a6-43f8-a09a-ca6db2ff08a3
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Añibarro Maestre, Ander (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Aranburu Bartau, Markel (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Ipiñazar Miranda, Maitane (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Sáez de Castillo García, Pedro (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarria Astondoa, Itxaso (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+San Saturnino Murua, Ibon (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Jilete González, Aroa (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+López Céspedes, Santiago (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de vocal del Consejo Vasco de Servicios Sociales
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7f0935ed-64a6-43f8-a09a-ca6db2ff08a3
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\11\07\16\00001</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión. Designación
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa a Maitane Ipiñazar Miranda representante del Parlamento Vasco en el Consejo Vasco de Servicios Sociales, y a Ayem Oskoz Urrutikoetxea, suplente
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_observaciones><![CDATA[
+Designación de un miembro titular y uno suplente
+            ]]></sesiones_comision_asunto_observaciones>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Ipiñazar Miranda)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Ipiñazar Miranda
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T09:32:10.3&streamdbend=2025-03-14T09:32:15.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votaciones.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T09:32:15.8&streamdbend=2025-03-14T09:33:23.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>4</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7f0935ed-64a6-43f8-a09a-ca6db2ff08a3
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+No se producen intervenciones
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Ipiñazar Miranda)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Ipiñazar Miranda
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T10:28:11.0&streamdbend=2025-03-14T10:28:22.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión celebrada el día 16 de diciembre de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7f0935ed-64a6-43f8-a09a-ca6db2ff08a3
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Ipiñazar Miranda)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Ipiñazar Miranda
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T09:31:49.2&streamdbend=2025-03-14T09:32:10.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+A fin de trasladar la situación actual de las personas sordas en Euskadi
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7f0935ed-64a6-43f8-a09a-ca6db2ff08a3
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00102</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece Euskal Gorrak
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Euskal Gorrak, Federación Vasca de Asociaciones de Personas Sordas (Bedialauneta Arrate)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Bedialauneta Arrate
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T09:35:31.0&streamdbend=2025-03-14T09:56:58.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+López Céspedes, Santiago (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T09:56:58.9&streamdbend=2025-03-14T09:57:18.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T09:57:18.1&streamdbend=2025-03-14T10:03:01.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T10:03:01.2&streamdbend=2025-03-14T10:08:41.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Euskal Gorrak, Federación Vasca de Asociaciones de Personas Sordas (Bedialauneta Arrate)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Bedialauneta Arrate
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T10:14:25.7&streamdbend=2025-03-14T10:24:45.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>150</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Euskal Gorrak, Federación Vasca de Asociaciones de Personas Sordas (Bedialauneta Arrate)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Bedialauneta Arrate
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T10:26:53.5&streamdbend=2025-03-14T10:28:11.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T10:08:41.4&streamdbend=2025-03-14T10:14:25.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T10:24:45.4&streamdbend=2025-03-14T10:26:21.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250314&streamdbstart=2025-03-14T10:26:21.8&streamdbend=2025-03-14T10:26:53.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>6</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>11.04.2025</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>09:15</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>11.04.2025</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>09:17</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 2
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+00:02
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>9</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/c088a57f-e29f-4f64-bea0-7194113e43ac
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arana Oyarbide, Alazne (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Aranburu Bartau, Markel (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxegoien Arzuaga, Marijo (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rabalo Navarro, Irina (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arcas Nogales, Lamia (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Kortajarena Ibañez, Nerea (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+López Céspedes, Santiago (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de presidenta o presidente de la comisión
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/c088a57f-e29f-4f64-bea0-7194113e43ac
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa a Marijo Etxegoien Arzuaga presidenta de la comisión
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250411&streamdbstart=2025-04-11T09:15:43.2&streamdbend=2025-04-11T09:15:57.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250411&streamdbstart=2025-04-11T09:15:57.0&streamdbend=2025-04-11T09:16:25.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/c088a57f-e29f-4f64-bea0-7194113e43ac
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Etxegoien Arzuaga)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Etxegoien Arzuaga
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250411&streamdbstart=2025-04-11T09:17:12.8&streamdbend=2025-04-11T09:17:24.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250411&streamdbstart=2025-04-11T09:16:40.3&streamdbend=2025-04-11T09:17:12.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión celebrada el día 14 de marzo de 2025
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/c088a57f-e29f-4f64-bea0-7194113e43ac
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, vicepresidenta (Benito del Valle Fernandez)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Benito del Valle Fernandez
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20250411&streamdbstart=2025-04-11T09:15:27.4&streamdbend=2025-04-11T09:15:43.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>7</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>14.11.2025</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>09:30</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>14.11.2025</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>12:25</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 2
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+02:25
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>9</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Etxegoien Arzuaga, Marijo (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Benito del Valle Fernandez, Edurne (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Aranburu Bartau, Markel (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rabalo Navarro, Irina (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Ortiz de Guinea Vea Murguia, Gorka (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Ubera Aranzeta, Rebeka (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Asensio Curiel, Itxaso (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Lainez Lazcoz, Maider (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arana Oyarbide, Alazne (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión celebrada el día 11 de abril de 2025
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Etxegoien Arzuaga)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Etxegoien Arzuaga
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T09:33:20.9&streamdbend=2025-11-14T09:33:42.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>4</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+No se producen intervenciones
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Bienestar, Juventud y Reto Demográfico, presidenta (Etxegoien Arzuaga)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Etxegoien Arzuaga
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T12:23:10.4&streamdbend=2025-11-14T12:23:20.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para exponer la situación que viven sus hijos e hijas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00209</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparecen los padres y madres de la asociación Aspace
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Padres y madres de la asociación Aspace (Ederra Requejo Castro)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Ederra Requejo Castro
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:21:54.0&streamdbend=2025-11-14T11:28:48.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Padres y madres de la asociación Aspace (Osa Etxebeste)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Osa Etxebeste
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:09:41.3&streamdbend=2025-11-14T11:21:54.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:28:48.0&streamdbend=2025-11-14T11:33:20.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:33:20.1&streamdbend=2025-11-14T11:38:38.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:38:38.4&streamdbend=2025-11-14T11:46:22.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Etxegoien Arzuaga, Marijo (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:46:22.7&streamdbend=2025-11-14T11:52:02.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Padres y madres de la asociación Aspace (Osa Etxebeste)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Osa Etxebeste
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:58:48.9&streamdbend=2025-11-14T12:06:24.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Padres y madres de la asociación Aspace (Ederra Requejo Castro)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Ederra Requejo Castro
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:52:02.3&streamdbend=2025-11-14T11:58:48.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T12:06:24.3&streamdbend=2025-11-14T12:09:21.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T12:09:21.0&streamdbend=2025-11-14T12:09:59.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T12:09:59.1&streamdbend=2025-11-14T12:13:12.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>150</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Etxegoien Arzuaga, Marijo (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T12:13:12.3&streamdbend=2025-11-14T12:16:06.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>170</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Padres y madres de la asociación Aspace (Osa Etxebeste)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Osa Etxebeste
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T12:18:09.8&streamdbend=2025-11-14T12:23:10.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>160</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Padres y madres de la asociación Aspace (Ederra Requejo Castro)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Ederra Requejo Castro
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T12:16:06.3&streamdbend=2025-11-14T12:18:09.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para exponer la situación que vive la plantilla y trasladar propuestas de mejora
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00210</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece el Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Uria Escolastico)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Uria Escolastico
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T09:35:51.3&streamdbend=2025-11-14T09:42:17.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Labin Francia)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Labin Francia
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T09:42:17.0&streamdbend=2025-11-14T09:46:40.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Pleguezuelos Espinar)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Pleguezuelos Espinar
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T09:46:40.2&streamdbend=2025-11-14T09:51:02.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Uria Escolastico)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Uria Escolastico
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T09:51:07.9&streamdbend=2025-11-14T09:52:33.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T09:52:33.4&streamdbend=2025-11-14T10:02:34.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:02:34.0&streamdbend=2025-11-14T10:04:57.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:04:57.6&streamdbend=2025-11-14T10:14:10.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:14:10.4&streamdbend=2025-11-14T10:23:12.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:23:12.1&streamdbend=2025-11-14T10:29:58.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Uria Escolastico)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Uria Escolastico
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:38:54.1&streamdbend=2025-11-14T10:41:10.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Labin Francia)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Labin Francia
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:33:11.2&streamdbend=2025-11-14T10:38:24.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Pleguezuelos Espinar)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Pleguezuelos Espinar
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:29:58.8&streamdbend=2025-11-14T10:33:11.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>150</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>160</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:41:10.4&streamdbend=2025-11-14T10:47:45.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>170</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:47:45.2&streamdbend=2025-11-14T10:48:20.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>180</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Campelo Martínez, Patricia (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:48:20.0&streamdbend=2025-11-14T10:49:09.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>190</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Oskoz Urrutikoetxea, Ayem (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:49:09.2&streamdbend=2025-11-14T10:52:37.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>200</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:52:37.1&streamdbend=2025-11-14T10:56:24.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Pleguezuelos Espinar)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Pleguezuelos Espinar
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:38:24.5&streamdbend=2025-11-14T10:38:54.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>220</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Uria Escolastico)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Uria Escolastico
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:59:40.2&streamdbend=2025-11-14T11:01:29.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>210</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Labin Francia)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Labin Francia
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T10:56:24.8&streamdbend=2025-11-14T10:59:40.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>230</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comité Intercentros del Servicio de Teleasistencia del Gobierno Vasco BetiOn (Pleguezuelos Espinar)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Pleguezuelos Espinar
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=09&streamdata=20251114&streamdbstart=2025-11-14T11:01:29.8&streamdbend=2025-11-14T11:02:07.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+<!--FIN CODIGO GENERADO-->
+</sesiones_comision_open_data>

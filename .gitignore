@@ -1,6 +1,7 @@
 experiments/
 .vscode/
-podcast/audios/
-podcast/logs/
-parliament/videos/
-parliament/logs/
+**/audios/
+**/logs/
+**/videos/
+**/xml_files/
+**/__pycache__/

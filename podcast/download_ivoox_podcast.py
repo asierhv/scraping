@@ -1,40 +1,11 @@
 import os
 import json
 import requests
+import argparse
 import feedparser
 import time
-from urllib.parse import urlparse, unquote
-from typing import TypedDict, List, Dict
-import argparse
-
-class AudioFeed(TypedDict):
-    id: int
-    pub_date: str
-    title: str
-    duration: str
-    audio_filepath: str
-    url: str
-
-class Feed(TypedDict):
-    source: str
-    name: str
-    rss_url: str
-    audio_list: List[AudioFeed]
-    
-def read_feeds(filepath: str):
-    feeds = []
-    with open(filepath, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            feeds.append(json.loads(line))
-    return feeds
-
-def write_feeds(filepath: str, feed_rss: List[Feed]):
-    with open(filepath, "w", encoding="utf-8") as f:
-        for feed in feed_rss:
-            f.write(json.dumps(feed, ensure_ascii=False) + "\n")
+from typing import List
+from scraping_utils.utils import AudioFeed, Feed, read_json, write_json
 
 def download_file(url: str, output_path: str):
     if os.path.exists(output_path):
@@ -102,7 +73,7 @@ def process_feed(feed_info: Feed, output_dir: str):
         audio_filepath = f"{base_dir}/{filename}.mp3"
         
         if download_file(url=url, output_path=audio_filepath):        
-            audio = {
+            audio: AudioFeed = {
                 "id": _id,
                 "pub_date": time.strftime("%Y-%m-%d",pub_date),
                 "title": title,
@@ -116,9 +87,9 @@ def process_feed(feed_info: Feed, output_dir: str):
 
     return new_audio_list
 
-def print_summary(feed_rss: List[Feed], title: str):
+def print_summary(feed_metadata: List[Feed], title: str):
     print(f"- {title}:")
-    for feed in feed_rss:
+    for feed in feed_metadata:
         audio_list = feed['audio_list']
         n_files = len(audio_list)
         duration_list = [audio["duration"] for audio in audio_list]
@@ -134,32 +105,33 @@ def print_summary(feed_rss: List[Feed], title: str):
         print(f"    · {feed['source']}/{feed['name']}: {round(hours,2)} hours | {n_files} programs")
     
 def main(args):
-    feed_rss_file = args.feed_rss_file
+    feed_metadata_file = args.feed_metadata_file
     output_dir = args.output_dir
     only_stats = args.only_stats
     
-    feed_rss = read_feeds(feed_rss_file)
+    feed_metadata = read_json(filepath=feed_metadata_file)
 
     if not only_stats:
-        new_feed_rss = []
-        for feed in feed_rss:
+        new_feed_metadata = []
+        for feed in feed_metadata:
             new_audio_list = process_feed(feed_info=feed, output_dir=output_dir)
             new_feed = dict(feed)
             new_feed['audio_list'] = new_audio_list
-            new_feed_rss.append(new_feed)
+            new_feed_metadata.append(new_feed)
             
             audio_list = feed.get("audio_list", [])
             feed["audio_list"] = new_audio_list + audio_list
 
-        write_feeds(filepath=feed_rss_file, feed_rss=feed_rss)
-        print("\n:::::: SUMMARY ::::::")
-        print_summary(feed_rss=new_feed_rss, title="New Data")    
+        write_json(filepath=feed_metadata_file, data=feed_metadata)
 
-    print_summary(feed_rss=feed_rss, title="Total Data")
+        print("\n:::::: SUMMARY ::::::")
+        print_summary(feed_metadata=new_feed_metadata, title="New Data")    
+
+    print_summary(feed_metadata=feed_metadata, title="Total Data")
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(add_help=True)
-    parser.add_argument("--feed_rss_file", help="(str): path to the JSON file wih the RSS urls.", required=True, type=str)
+    parser.add_argument("--feed_metadata_file", help="(str): path to the JSON file with the RSS URLs.", required=True, type=str)
     parser.add_argument("--output_dir", help="(str): path to the output directory for the audio files.", required=True, type=str)
     parser.add_argument("--only_stats", help="(bool): show only stats", required=False, type=bool, default=False)
     args = parser.parse_args()

@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sesiones_comision_open_data xsi:noNamespaceSchemaLocation="sesiones_comision_open_data.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--PPIO CODIGO GENERADO-->
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>1</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>28.06.2024</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>12:20</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>28.06.2024</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>12:21</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 3
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+00:01
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comentarios_hora><![CDATA[
+12:00
+      ]]></sesiones_comision_comentarios_hora>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>12</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Control de EITB
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/1cfa4354-7e5d-4e61-9cf4-f0d47695dab6
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Moreno Carranza, Jonatan (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Alonso Martín, Alberto (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Escota Bisbal, Josune (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Mendizabal Etxeberria, Garikoitz (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Tejeria Otermin, Bakartxo (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Zuluaga Zamalloa, Irune (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arcas Nogales, Lamia (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arrese Otegi, Ikoitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Blanco de Angulo, Eba (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Etxebarrieta Legrand, Oihana (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Saez de Egilaz Ramos, Eraitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Corcuera Leunda, Susana (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Rico Lezama, Ekain (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrido Knörr, Laura (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Gotxi García, Álvaro (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Hernández Hidalgo, Jon (GP Mixto-Sumar)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Constitución de la comisión y elección de la mesa
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/1cfa4354-7e5d-4e61-9cf4-f0d47695dab6
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se constituye la comisión y se elige la mesa
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votación.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20240628&streamdbstart=2024-06-28T12:20:45.0&streamdbend=2024-06-28T12:21:28.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+   <sesiones_comision>
+      <sesiones_comision_legislatura>13</sesiones_comision_legislatura>
+      <sesiones_comision_num_sesion>2</sesiones_comision_num_sesion>
+      <sesiones_comision_fecha_inicio>26.03.2025</sesiones_comision_fecha_inicio>
+      <sesiones_comision_hora_inicio>11:30</sesiones_comision_hora_inicio>
+      <sesiones_comision_fecha_fin>26.03.2025</sesiones_comision_fecha_fin>
+      <sesiones_comision_hora_fin>14:04</sesiones_comision_hora_fin>
+      <sesiones_comision_tipo_sesion><![CDATA[
+Comisión
+      ]]></sesiones_comision_tipo_sesion>
+      <sesiones_comision_sala><![CDATA[
+Sala 2
+      ]]></sesiones_comision_sala>
+      <sesiones_comision_duracion_sesion><![CDATA[
+02:33
+      ]]></sesiones_comision_duracion_sesion>
+      <sesiones_comision_comision>
+         <sesiones_comision_comision_numero>12</sesiones_comision_comision_numero>
+         <sesiones_comision_comision_descripcion><![CDATA[
+Comisión de Control de EITB
+         ]]></sesiones_comision_comision_descripcion>
+      </sesiones_comision_comision>
+      <sesiones_comision_diario_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7e4696eb-5849-45bb-9397-9f4b508d30e6
+      ]]></sesiones_comision_diario_link>
+      <sesiones_comision_asistentes>
+         <sesiones_comision_asistente><![CDATA[
+Escota Bisbal, Josune (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Mendizabal Etxeberria, Garikoitz (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Moreno Carranza, Jonatan (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Urrutia Oianguren, Aitor (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Zuluaga Zamalloa, Irune (GP EA-NV)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Arrese Otegi, Ikoitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Aztiria Urtaran, Josu (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Garrastatxu Urbaneja, Ima (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Murua Uria, Itziar (GP EH Bildu)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Blasi Uribarri, Pau (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Canto Llorente, Estíbaliz (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Gallástegui Oyarzábal, Miren (GP SV-ES)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+         ]]></sesiones_comision_asistente>
+         <sesiones_comision_asistente><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+         ]]></sesiones_comision_asistente>
+      </sesiones_comision_asistentes>
+      <sesiones_comision_asuntos>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>2</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Designación de secretaria o secretario de la comisión
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7e4696eb-5849-45bb-9397-9f4b508d30e6
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se designa a Estíbaliz Canto Llorente secretaria de la comisión
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Control de EITB, presidente (Moreno Carranza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Moreno Carranza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T11:32:18.7&streamdbend=2025-03-26T11:32:55.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Votaciones.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T11:32:55.3&streamdbend=2025-03-26T11:33:44.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>3</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Delegación en la Mesa de la comisión de la adopción de acuerdos sobre solicitudes de información o comparecencia, con arreglo al artículo 52.5 del Reglamento
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7e4696eb-5849-45bb-9397-9f4b508d30e6
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Control de EITB, presidente (Moreno Carranza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Moreno Carranza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T11:33:44.5&streamdbend=2025-03-26T11:34:19.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>1</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Lectura y aprobación, en su caso, del acta de la sesión constitutiva celebrada el día 28 de junio de 2024
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7e4696eb-5849-45bb-9397-9f4b508d30e6
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Se aprueba por asentimiento
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se abre la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Control de EITB, presidente (Moreno Carranza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Moreno Carranza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T11:31:31.4&streamdbend=2025-03-26T11:32:18.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>7</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Ruegos y preguntas
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7e4696eb-5849-45bb-9397-9f4b508d30e6
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Garikoitz Mujika Iriondo manifiesta que solicitará un informe en relación a la cuestión objeto de la discusión mantenida en la sesión sobre el  desarrollo del orden del día
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Control de EITB, presidente (Moreno Carranza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Moreno Carranza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T14:03:07.5&streamdbend=2025-03-26T14:04:09.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>0</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Se levanta la sesión.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T14:04:09.4&streamdbend=2025-03-26T14:04:26.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Control de EITB, presidente (Moreno Carranza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Moreno Carranza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T14:04:26.0&streamdbend=2025-03-26T14:04:36.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>4</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para dar explicaciones acerca de la independencia de EITB
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7e4696eb-5849-45bb-9397-9f4b508d30e6
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00082</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece el director general de EITB acompañado de la directora gerente de  EITB
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T11:36:48.1&streamdbend=2025-03-26T11:49:07.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Director general de EITB (Aldekoa de la Torre)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Aldekoa de la Torre
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T11:49:07.6&streamdbend=2025-03-26T11:55:24.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T11:55:24.9&streamdbend=2025-03-26T12:01:50.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:01:50.8&streamdbend=2025-03-26T12:06:14.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:06:14.4&streamdbend=2025-03-26T12:09:47.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Director general de EITB (Aldekoa de la Torre)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Aldekoa de la Torre
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:13:51.0&streamdbend=2025-03-26T12:26:37.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Blasi Uribarri, Pau (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:09:47.3&streamdbend=2025-03-26T12:11:18.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mendizabal Etxeberria, Garikoitz (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:11:18.9&streamdbend=2025-03-26T12:13:51.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:26:44.9&streamdbend=2025-03-26T12:31:58.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>120</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:31:58.3&streamdbend=2025-03-26T12:35:02.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:35:02.4&streamdbend=2025-03-26T12:36:50.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mendizabal Etxeberria, Garikoitz (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:36:50.8&streamdbend=2025-03-26T12:38:14.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>5</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para explicar por qué se modificaron las bases de la oferta de empleo para cubrir el puesto de director o directora de Social Media y eitb.eus en EiTB
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7e4696eb-5849-45bb-9397-9f4b508d30e6
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00083</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece el director general de EITB acompañado de la directora gerente de  EITB
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:38:14.5&streamdbend=2025-03-26T12:39:04.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Director general de EITB (Aldekoa de la Torre)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Aldekoa de la Torre
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:49:59.2&streamdbend=2025-03-26T12:54:48.9
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:54:48.9&streamdbend=2025-03-26T13:03:08.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>140</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Director general de EITB (Aldekoa de la Torre)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Aldekoa de la Torre
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:14:24.4&streamdbend=2025-03-26T13:24:59.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>30</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Control de EITB, presidente (Moreno Carranza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Moreno Carranza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:39:04.6&streamdbend=2025-03-26T12:39:46.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:03:08.2&streamdbend=2025-03-26T13:06:12.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:06:12.8&streamdbend=2025-03-26T13:07:02.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>110</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Blasi Uribarri, Pau (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:07:02.0&streamdbend=2025-03-26T13:11:27.7
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>130</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mendizabal Etxeberria, Garikoitz (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:11:27.7&streamdbend=2025-03-26T13:14:24.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>150</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Segundo turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>160</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:24:59.7&streamdbend=2025-03-26T13:30:20.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>170</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:30:20.0&streamdbend=2025-03-26T13:31:57.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>180</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:31:57.2&streamdbend=2025-03-26T13:33:20.6
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>190</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Blasi Uribarri, Pau (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:33:20.6&streamdbend=2025-03-26T13:34:09.4
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>200</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mendizabal Etxeberria, Garikoitz (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:34:09.4&streamdbend=2025-03-26T13:35:57.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>210</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Director general de EITB (Aldekoa)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Aldekoa
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:35:57.2&streamdbend=2025-03-26T13:39:34.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Comisión de Control de EITB, presidente (Moreno Carranza)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Moreno Carranza
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:49:09.1&streamdbend=2025-03-26T12:49:59.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T12:39:46.8&streamdbend=2025-03-26T12:49:09.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+         <sesiones_comision_asunto>
+            <sesiones_comision_asunto_num_asunto>6</sesiones_comision_asunto_num_asunto>
+            <sesiones_comision_asunto_titulo><![CDATA[
+Para dar explicaciones acerca de la idoneidad para ocupar ese cargo
+            ]]></sesiones_comision_asunto_titulo>
+            <sesiones_comision_asunto_link><![CDATA[
+http://www.legebiltzarra.eus/dok/restAPI/pvgune_descargar/default/7e4696eb-5849-45bb-9397-9f4b508d30e6
+            ]]></sesiones_comision_asunto_link>
+            <sesiones_comision_asunto_tramitacion>
+               <sesiones_comision_asunto_tramitacion_tramite>
+                  <sesiones_comision_asunto_tramite_num_expediente>13\10\06\03\00084</sesiones_comision_asunto_tramite_num_expediente>
+                  <sesiones_comision_asunto_tramite_descripcion><![CDATA[
+Celebración de la sesion de comisión
+                  ]]></sesiones_comision_asunto_tramite_descripcion>
+               </sesiones_comision_asunto_tramitacion_tramite>
+            </sesiones_comision_asunto_tramitacion>
+            <sesiones_comision_asunto_acuerdo><![CDATA[
+Comparece el director general de EITB acompañado de la directora gerente de  EITB
+            ]]></sesiones_comision_asunto_acuerdo>
+            <sesiones_comision_asunto_indice_oradores>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>10</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:39:34.2&streamdbend=2025-03-26T13:44:27.2
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>20</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Director general de EITB (Aldekoa de la Torre)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Aldekoa de la Torre
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:44:27.2&streamdbend=2025-03-26T13:48:49.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>40</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Turno de grupos.
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>50</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mujika Iriondo, Garikoitz (GP EH Bildu)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:48:49.1&streamdbend=2025-03-26T13:50:37.0
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>60</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Martínez Grisaleña, Amaia (GP Mixto-Vox)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:50:37.0&streamdbend=2025-03-26T13:53:17.8
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>70</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Morales Peral, Ana (GP PV-ETP)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:53:17.8&streamdbend=2025-03-26T13:55:09.3
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>80</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Blasi Uribarri, Pau (GP SV-ES)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:55:09.3&streamdbend=2025-03-26T13:57:37.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>90</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>2</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Mendizabal Etxeberria, Garikoitz (GP EA-NV)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:57:37.1&streamdbend=2025-03-26T13:58:43.5
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+               <sesiones_comision_asunto_indice_orador>
+                  <sesiones_comision_asunto_indice_orden>100</sesiones_comision_asunto_indice_orden>
+                  <sesiones_comision_asunto_indice_indentacion>1</sesiones_comision_asunto_indice_indentacion>
+                  <sesiones_comision_asunto_indice_descripcion><![CDATA[
+Director general de EITB (Aldekoa)
+                  ]]></sesiones_comision_asunto_indice_descripcion>
+                  <sesiones_comision_asunto_indice_observaciones><![CDATA[
+Aldekoa
+                  ]]></sesiones_comision_asunto_indice_observaciones>
+                  <sesiones_comision_asunto_indice_link><![CDATA[
+http://www.legebiltzarra.eus/portal/web/eusko-legebiltzarra/videos/-/reproducir/vid?streamlegealdia=13&streamorganoa=12&streamdata=20250326&streamdbstart=2025-03-26T13:58:43.5&streamdbend=2025-03-26T14:02:44.1
+                  ]]></sesiones_comision_asunto_indice_link>
+               </sesiones_comision_asunto_indice_orador>
+            </sesiones_comision_asunto_indice_oradores>
+         </sesiones_comision_asunto>
+      </sesiones_comision_asuntos>
+   </sesiones_comision>
+<!--FIN CODIGO GENERADO-->
+</sesiones_comision_open_data>

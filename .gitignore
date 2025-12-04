@@ -5,3 +5,5 @@ experiments/
 **/videos/
 **/xml_files/
 **/__pycache__/
+podcast/feed_metadata.json
+parliament/xml_metadata.json
